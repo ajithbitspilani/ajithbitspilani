@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ajith, student of M.Tech course at BITS Pilani.
-- 👀 I’m interested in vision based analytics
-- 🌱 I’m currently learning monocular depth analysis
-- 💞️ I’m looking to collaborate on monocular depth analysis
+- 👋 Hi, I’m Ajith, currently a PhD Research Scholar at VelTech University
+- 👀 I’m interested in LLM amd Quantum computing
+- 🌱 I’m currently working on LLM Security
+- 💞️ I’m looking to collaborate on Large Language Models, RAG, and also on Quantum Computing
 - 📫 How to reach me : busy right now
 
 <!---
